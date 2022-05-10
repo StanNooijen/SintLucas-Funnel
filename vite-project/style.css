@@ -6,3 +6,34 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+h1{
+  color: #f8960c;
+  font-family: Oswald;
+}
+
+body{
+  background-color: rgb(216, 216, 216);
+}
+
+.header1{
+  background-color: white;
+  top: auto;
+  width: 100%;
+  top: 0;
+}
+
+header{
+  font-family: Oswald;
+}
+
+.headerText{
+text-decoration: none;
+color: black;
+font-size: 30px;
+text-transform: uppercase;
+}
+
+.rectangel{
+  background-color: white;
+}
